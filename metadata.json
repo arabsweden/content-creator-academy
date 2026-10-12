@@ -1,0 +1,6 @@
+{
+  "name": "أكاديمية صانع المحتوى",
+  "description": "منصة تعليمية عربية متكاملة تساعد على تعلم صناعة المحتوى، اختيار المنصة، المونتاج، بناء الجمهور، الجانب القانوني وتحقيق الدخل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
